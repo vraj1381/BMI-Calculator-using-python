@@ -1,5 +1,5 @@
 # BMI-Calculator-using-python
-BMI calculator Using Python Programming.
+# BMI calculator Using Python Programming.
 weight = int(input());
 height = float(input());
 x = weight/float(height*height);
